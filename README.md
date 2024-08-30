@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Amit Sharma
 - 👀 I’m interested in ...cooking, java , cricket .....
-- 🌱 I’m currently learning ...Microservices with spring boot in java
-- 💞️ I’m looking to collaborate on ... anything related to java development
+- 🌱 I’m currently upskilling with the help of crio.do in java fullstack development
+- 💞️ I’m looking to collaborate on ... anything related to java,springboot development
 - 📫 How to reach me ...amit130391@gmail.com
 
 <!---
